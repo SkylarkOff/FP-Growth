@@ -17,3 +17,5 @@ The dataset used in this project is the Supermart Grocery Sales - Retail Analyti
 - Discount
 - Profit
 - State
+
+[Source : ](https://www.kaggle.com/datasets/mohamedharris/supermart-grocery-sales-retail-analytics-dataset)
