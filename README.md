@@ -1,2 +1,1 @@
-# FP-Growth
-Algoritma FP-Growth
+FP-Growth Algorithm Implementation on Supermarket Sales Dataset
