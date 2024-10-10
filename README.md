@@ -7,11 +7,13 @@ The purpose of this project is to apply the FP-Growth algorithm to a supermarket
 ## Dataset
 The dataset used in this project is the Supermart Grocery Sales - Retail Analytics Dataset from Kaggle. It includes customer orders made in Tamil Nadu, India. The dataset features columns such as:
 
-Order ID
-Customer Name
-Category
-Sub Category
-City
-Order Date
-Sales, Discount, and Profit
-The dataset is stored in your Google Drive and loaded into the Colab notebook for analysis.
+- Order ID
+- Customer Name
+- Category
+- Sub Category
+- City
+- Order Date
+- Sales
+- Discount
+- Profit
+- State
